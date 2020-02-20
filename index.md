@@ -13,7 +13,7 @@ region: United States
 
 ## Chapter Meetings
 
-We meet the **2nd Wednesday of each Month** our location is currently in a state of flux, but hope to have that squared away by April 2020
+We typical meet the **2nd or 3rd Wednesday of each Month** our location is currently in a state of flux, but hope to have that squared away by April 2020
 
 We hold a Meet and Greet beginning at 6:30pm. Food and beverages are
 provided.
@@ -29,12 +29,14 @@ can have an accurate count for food.
     as a GSOC project. This is a very exciting new feature that will
     pave the way for a server/client model of
     [AppSensor](https://owasp.org/www-project-appsensor/migrated_content).
+  ## Member Spotlight
+  
+  - Jasmine M. Jackson [Fluffy007](https://thefluffy007.com/)
+  - Josh Jenkins: [Amazon Echo Auto SHENANIGANS.](https://www.huggablehacker.com/?p=521)
 
 <!-- end list -->
 
-  - We now have a [Power Point
-    Presentation](Media:Charlotte_OWASP_Presentation_Template.ppt "wikilink")
-    for pitching the chapter to other local professional organizations.
+
 
 ## Past Chapter Meetings
 
