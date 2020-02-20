@@ -9,7 +9,7 @@ region: United States
 
 
 ---
-![OWASP_CLT.png](OWASP_CLT.png "OWASP_CLT.png")
+![](assets/images/600_103072722.jpeg)
 
 ## Chapter Meetings
 
