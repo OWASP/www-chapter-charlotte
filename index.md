@@ -31,8 +31,9 @@ can have an accurate count for food.
     [AppSensor](https://owasp.org/www-project-appsensor/migrated_content)
 
 <!-- end list -->
-  ## Member Spotlight
-  
+
+## Member Spotlight.
+
   - Jasmine M. Jackson [Fluffy007](https://thefluffy007.com/)
   - Josh Jenkins: [Amazon Echo Auto SHENANIGANS.](https://www.huggablehacker.com/?p=521)
 <!-- end list -->
