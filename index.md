@@ -13,8 +13,7 @@ region: United States
 
 ## Chapter Meetings
 
-We meet the **2nd Wednesday of each Month** located at
-[**HERE**](https://goo.gl/maps/FsG3To1ioUC2) at WeWork Charlotte.
+We meet the **2nd Wednesday of each Month** our location is currently in a state of flux, but hope to have that squared away by April 2020
 
 We hold a Meet and Greet beginning at 6:30pm. Food and beverages are
 provided.
@@ -25,11 +24,11 @@ can have an accurate count for food.
 ## Local News
 
   - One of our projects,
-    [AppSensor](https://www.owasp.org/index.php/OWASP_AppSensor_Project)
+    [AppSensor](https://owasp.org/www-project-appsensor/migrated_content)
     headed by lead developer and local member John Melton, was selected
     as a GSOC project. This is a very exciting new feature that will
     pave the way for a server/client model of
-    [AppSensor](https://www.owasp.org/index.php/OWASP_AppSensor_Project).
+    [AppSensor](https://owasp.org/www-project-appsensor/migrated_content).
 
 <!-- end list -->
 
