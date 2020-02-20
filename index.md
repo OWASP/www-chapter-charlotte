@@ -39,12 +39,11 @@ can have an accurate count for food.
 ## Past Chapter Meetings
 
 ### **2018**
-
-[Charlotte Chapter Meeting
-2018-06-13](Charlotte_Chapter_Meeting_2018-06-13 "wikilink")
-
-[Charlotte Chapter Meeting
-2018-07-11](Charlotte_Chapter_Meeting_2018-07-11 "wikilink")
+Coming Soon! Moving from Old OWASP Wiki.
+### **2019**
+Coming Soon! Moving from Old OWASP Wiki.
+### **2020**
+First Meetup is March 2020
 
 ## More Information
 
