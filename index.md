@@ -28,14 +28,14 @@ can have an accurate count for food.
     headed by lead developer and local member John Melton, was selected
     as a GSOC project. This is a very exciting new feature that will
     pave the way for a server/client model of
-    [AppSensor](https://owasp.org/www-project-appsensor/migrated_content).
+    [AppSensor](https://owasp.org/www-project-appsensor/migrated_content)
+
+<!-- end list -->
   ## Member Spotlight
   
   - Jasmine M. Jackson [Fluffy007](https://thefluffy007.com/)
   - Josh Jenkins: [Amazon Echo Auto SHENANIGANS.](https://www.huggablehacker.com/?p=521)
-
 <!-- end list -->
-
 
 
 ## Past Chapter Meetings
