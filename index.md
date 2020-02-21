@@ -55,7 +55,7 @@ can have an accurate count for food.
 Coming Soon! Moving from Old OWASP Wiki.
 
 ### **2020**
-First Meetup is March 2020
+  - [2020 Kick Off Meeting](https://www.meetup.com/owaspCLT/events/268712712/)
 
 ## More Information
 
