@@ -13,7 +13,7 @@ region: United States
 
 ## Chapter Meetings
 
-We typical meet the **2nd or 3rd Wednesday of each Month** our location is currently in a state of flux, but hope to have that squared away by April 2020
+We typical meet the **2nd or 3rd Wednesday of each Month** our location is currently in a state of flux, but hope to have that squared away by **April 2020**
 
 We hold a Meet and Greet beginning at 6:30pm. Food and beverages are
 provided.
@@ -67,6 +67,5 @@ Coming Soon! Moving from Old OWASP Wiki.
     Account](http://twitter.com/OWASPCharlotte) where we'll be posting
     news about OWASP Charlotte.
 
-[Category:OWASP Chapter](Category:OWASP_Chapter "wikilink")
 [Category:OWASP Chapter](Category:OWASP_Chapter "wikilink")
 [Category:North Carolina](Category:North_Carolina "wikilink")
