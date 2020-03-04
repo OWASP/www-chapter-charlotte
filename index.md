@@ -66,7 +66,7 @@ Coming Soon! Moving from Old OWASP Wiki.
   - We have a [OWASP Charlotte Twitter
     Account](http://twitter.com/OWASPCharlotte) where we'll be posting
     news about OWASP Charlotte. 
-  - [Slide Deck Template](assets/images/OWASPCLT_Template.pptx)
+  - [Powerpoint Slide Deck Template](assets/images/OWASPCLT_Template.pptx)
 
 [Category:OWASP Chapter](Category:OWASP_Chapter "wikilink")
 [Category:North Carolina](Category:North_Carolina "wikilink")
