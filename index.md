@@ -57,7 +57,7 @@ Coming Soon! Moving from Old OWASP Wiki.
 ### **2020**
   - [2020 Kick Off Meeting (DA in Under 30 w/ Michael Kannan and Christopher Barretto)](https://www.meetup.com/owaspCLT/events/268712712/)
 
-## More Information
+## Comms with OWASP CLT
 
   - All of our communications and event notifications have been moved to our MeetUp page 
     [OWASPCLT](http://www.meetup.com/owaspCLT/). Please join if
@@ -66,8 +66,11 @@ Coming Soon! Moving from Old OWASP Wiki.
   - We have a [OWASP Charlotte Twitter
     Account](http://twitter.com/OWASPCharlotte) where we'll be posting
     news about OWASP Charlotte. 
-  - [Powerpoint Slide Deck Template](assets/images/OWASPCLT_Template.pptx)
   - Please visit our [YouTube](https://www.youtube.com/channel/UC8gUuxBL8u6PDiHFdZIgnqg) page for past meetups.
+  
+  ## Misc.
+  
+   - [Powerpoint Slide Deck Template](assets/images/OWASPCLT_Template.pptx)
 
 [Category:OWASP Chapter](Category:OWASP_Chapter "wikilink")
 [Category:North Carolina](Category:North_Carolina "wikilink")
