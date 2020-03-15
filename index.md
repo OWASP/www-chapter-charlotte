@@ -68,7 +68,7 @@ Coming Soon! Moving from Old OWASP Wiki.
     news about OWASP Charlotte. 
   - Please visit our [YouTube](https://www.youtube.com/channel/UC8gUuxBL8u6PDiHFdZIgnqg) page for past meetups.
   
-  ## Misc.
+## Misc.
   
    - [Powerpoint Slide Deck Template](assets/images/OWASPCLT_Template.pptx)
 
