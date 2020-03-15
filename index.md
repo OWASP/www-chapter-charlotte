@@ -15,7 +15,7 @@ region: United States
 
 Stareted in 2015, we are the CLT area's chapter for OWASP Global. We typical meet the **2nd or 3rd Wednesday of each Month** our location is currently in a state of flux, but hope to have that squared away by **April 2020**
 
-We hold a Meet and Greet beginning at 6:30pm. Food and beverages are
+We hold a Meet and Greet beginning at 7:00pm. Food and beverages are
 provided.
 
 Please Signup on [**Meet-Up**](https://www.meetup.com/owaspCLT) so we
