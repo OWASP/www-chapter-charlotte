@@ -5,7 +5,7 @@ title: OWASP Charlotte
 tags: example-tag
 level: 0
 
-region: United States
+region: North America
 
 
 ---
