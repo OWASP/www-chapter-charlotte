@@ -56,7 +56,7 @@ Coming Soon! Moving from Old OWASP Wiki.
 
 ### **2020**
   - [2020 Kick Off Meeting (DA in Under 30 w/ Michael Kannan and Christopher Barretto)](https://www.meetup.com/owaspCLT/events/268712712/)
-    - [Slides](#)
+    - [Slides](assets/images/DA-Under-30.pptx)
     - [Video](#)
 
 ## Comms with OWASP CLT
