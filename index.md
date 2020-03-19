@@ -13,7 +13,7 @@ region: North America
 
 ## Chapter Meetings
 
-Stareted in 2015, we are the CLT area's chapter for OWASP Global. We typical meet the **2nd or 3rd Wednesday of each Month** our location is currently in a state of flux, but hope to have that squared away by **April 2020**
+Started in 2015, we are the CLT area's chapter for OWASP Global. We typical meet the **2nd or 3rd Wednesday of each Month** our location is currently in a state of flux, but hope to have that squared away by **April 2020**
 
 We hold a Meet and Greet beginning at 7:00pm. Food and beverages are
 provided.
@@ -58,7 +58,7 @@ Coming Soon! Moving from Old OWASP Wiki.
   - [2020 Kick Off Meeting (DA in Under 30 w/ Michael Kannan and Christopher Barretto)](https://www.meetup.com/owaspCLT/events/268712712/)
     - [Agenda](assets/images/DA-Under-30(agenda).pptx)
     - [Slides](assets/images/DA-Under-30.pptx)
-    - [Video](#)
+    - [Video](https://www.youtube.com/watch?v=nptwNr2AXPg)
 
 ## Comms with OWASP CLT
 
