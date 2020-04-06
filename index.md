@@ -55,7 +55,7 @@ can have an accurate count for food.
 Coming Soon! Moving from Old OWASP Wiki.
 
 ### **2020**
-  - [2020 Kick Off Meeting (DA in Under 30 w/ Michael Kannan and Christopher Barretto)](https://www.meetup.com/owaspCLT/events/268712712/)
+  - [2020 Kick Off Meeting (DA in Under 30 w/ Michael Kannan)](https://www.meetup.com/owaspCLT/events/268712712/)
     - [Agenda](assets/images/DA-Under-30(agenda).pptx)
     - [Slides](assets/images/DA-Under-30.pptx)
     - [Video](https://www.youtube.com/watch?v=nptwNr2AXPg)
