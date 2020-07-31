@@ -7,6 +7,9 @@ level: 0
 
 region: North America
 
+meetup-group: owaspCLT
+country: USA
+postal-code: 28202
 
 ---
 ![](assets/images/600_103072722.jpeg)
