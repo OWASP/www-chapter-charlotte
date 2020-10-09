@@ -1,5 +1,5 @@
 ### Leaders
 
-* [Josh Jenkins](mailto:josh.jenkins@owasp.org) - [Website](https://www.huggablehacker.com/) - [Twitter](https://twitter.com/huggablehacker)
+* [Josh Jenkins](mailto:josh.jenkins@owasp.org) 
 
 * [Little Felton](mailto:little.felton@owasp.org) 
