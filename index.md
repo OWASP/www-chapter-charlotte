@@ -43,7 +43,7 @@ can have an accurate count for food.
 ## Member Spotlight.
 
   - Jasmine M. Jackson [Fluffy007](https://thefluffy007.com/)
-  - Josh Jenkins: [Amazon Echo Auto SHENANIGANS.](https://www.huggablehacker.com/?p=521)
+  - Josh Jenkins: [Huggable Hacker](https://www.huggablehacker.com/)
    - Little Felton: [Little Felton](https://www.littlefelton.com/)
 <!-- end list -->
 
