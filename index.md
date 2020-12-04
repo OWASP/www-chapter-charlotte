@@ -2,7 +2,7 @@
 
 layout: col-sidebar
 title: OWASP Charlotte
-tags: example-tag
+#tags: example-tag
 level: 0
 
 region: North America
