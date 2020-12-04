@@ -16,7 +16,7 @@ postal-code: 28202
 
 ## Chapter Meetings
 
-Started in 2010, we are the CLT area's chapter for OWASP Global. We typical meet the **4 Times a Year.** Sometinmes more, we hope to also see you during the [Cyber Security Symposium](https://cybersecuritysymposium.uncc.edu/)
+Started in 2010, we are the CLT area's chapter for OWASP Global. We typical meet the **4 Times a Year.** Sometimes more, we hope to also see you during the [Cyber Security Symposium](https://cybersecuritysymposium.uncc.edu/)
 
 We hold a Meet and Greet **(Virtually During this time of COVID)** beginning at 7:00pm. Food and beverages are
 provided. **(Suspended during this time of COVID, Feel free to drink and eat at your house, we for sure will be doing that!)**
