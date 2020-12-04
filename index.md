@@ -27,6 +27,9 @@ can have an accurate count for food.
 ## Upcoming Meetings
 
   - [2021 Kick Off Meeting (Security in a Post Covid World)](https://www.meetup.com/owaspCLT/events/274975479/)
+  - [April 2021 Topic TBA!](#) - 04/21/21
+  - [July 2021 Topic TBA!](#) - 07/21/21
+  - [October 2021 Topic TBA!](#) - 10/21/21
 
 
 ## Local News
