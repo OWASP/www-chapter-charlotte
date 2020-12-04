@@ -79,17 +79,17 @@ Coming Soon! Moving from Old OWASP Wiki.
     - [Slides](#)
     - [Video](#)
     
-  - [April 2021 Meetup](#) - 04/21/21
+  - [April 2021 Meetup](https://www.meetup.com/owaspCLT/events/274988410/) - 04/21/21
     - [Agenda](#)
     - [Slides](#)
     - [Video](#)
     
-  - [July 2021 Meetup](#) - 07/21/21
+  - [July 2021 Meetup](https://www.meetup.com/owaspCLT/events/274988434/) - 07/21/21
     - [Agenda](#)
     - [Slides](#)
     - [Video](#)
     
-  - [October 2021 Meetup](#) - 10/21/21
+  - [October 2021 Meetup](https://www.meetup.com/owaspCLT/events/274988455/) - 10/21/21
     - [Agenda](#)
     - [Slides](#)
     - [Video](#)
