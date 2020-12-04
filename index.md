@@ -16,13 +16,18 @@ postal-code: 28202
 
 ## Chapter Meetings
 
-Started in 2010, we are the CLT area's chapter for OWASP Global. We typical meet the **2nd or 3rd Wednesday of each Month.** 
+Started in 2010, we are the CLT area's chapter for OWASP Global. We typical meet the **4 Times a year** 
 
 We hold a Meet and Greet beginning at 7:00pm. Food and beverages are
 provided.
 
 Please Signup on [**Meet-Up**](https://www.meetup.com/owaspCLT) so we
 can have an accurate count for food.
+
+## Upcoming Meetings
+
+  - [2021 Kick Off Meeting (Security in a Post Covid World)](https://www.meetup.com/owaspCLT/events/274975479/)
+
 
 ## Local News
 
