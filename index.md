@@ -62,6 +62,28 @@ Coming Soon! Moving from Old OWASP Wiki.
     - [Agenda](assets/images/DA-Under-30(agenda).pptx)
     - [Slides](assets/images/DA-Under-30.pptx)
     - [Video](https://www.youtube.com/watch?v=nptwNr2AXPg)
+    
+    
+### **2021**
+  - [2021 Kick Off Meeting (Security in a Post Covid World)] - 01/21/21
+    - [Agenda]
+    - [Slides]
+    - [Video]
+    
+  - [April 2021 Meetup] - 04/21/21
+    - [Agenda]
+    - [Slides]
+    - [Video]
+    
+  - [July 2021 Meetup] - 07/21/21
+    - [Agenda]
+    - [Slides]
+    - [Video]
+    
+  - [October 2021 Meetup] - 10/21/21
+    - [Agenda]
+    - [Slides]
+    - [Video]
 
 ## Comms with OWASP CLT
 
