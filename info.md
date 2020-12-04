@@ -3,4 +3,4 @@
 
 ### Social Links
 * [Meetup](https://www.meetup.com/owaspCLT/)
-* [Social Link](#)
+* [Twitter](https://twitter.com/OWASPCharlotte)
