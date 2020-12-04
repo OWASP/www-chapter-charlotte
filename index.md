@@ -87,14 +87,14 @@ Coming Soon! Moving from Old OWASP Wiki.
  
 ## Comms with OWASP CLT
 
-  - All of our communications and event notifications have been moved to our MeetUp page 
+  - All of our event notifications have been moved to our MeetUp page 
     [OWASPCLT](http://www.meetup.com/owaspCLT/). Please join if
     interested as it will get updated more frequently then this wiki
     page.
   - We have a [OWASP Charlotte Twitter
     Account](http://twitter.com/OWASPCharlotte) where we'll be posting
     news about OWASP Charlotte. 
-  - **NEW for 2020** Please visit our [YouTube](https://www.youtube.com/channel/UC8gUuxBL8u6PDiHFdZIgnqg) page for past meetups.
+  - Please visit our [YouTube](https://www.youtube.com/channel/UC8gUuxBL8u6PDiHFdZIgnqg) page for past meetups.
   
 ## Misc.
   
