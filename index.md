@@ -26,7 +26,6 @@ can have an accurate count for food.
 
 ## Upcoming Meetings
 
-  - [2021 Kick Off Meeting (Security in a Post Covid World)](https://www.meetup.com/owaspCLT/events/274975479/)
   - [April 2021 Topic TBA!](https://www.meetup.com/owaspCLT/events/274988410/) - 04/21/21
   - [July 2021 Topic TBA!](https://www.meetup.com/owaspCLT/events/274988434/) - 07/21/21
   - [October 2021 Topic TBA!](https://www.meetup.com/owaspCLT/events/274988455/) - 10/21/21
@@ -74,9 +73,8 @@ Coming Soon! Moving from Old OWASP Wiki.
     
 ### **2021**
   - [2021 Kick Off Meeting (Security in a Post Covid World)](https://www.meetup.com/owaspCLT/events/274975479/) - 01/21/21
-  - [April 2021 Meetup](https://www.meetup.com/owaspCLT/events/274988410/) - 04/21/21
-  - [July 2021 Meetup](https://www.meetup.com/owaspCLT/events/274988434/) - 07/21/21
-  - [October 2021 Meetup](https://www.meetup.com/owaspCLT/events/274988455/) - 10/21/21
+     - [Slides](assets/images/OWASPCLT_12121.pptx)
+     - [Video](https://www.youtube.com/watch?v=nptwNr2AXPg)
  
 ## Comms with OWASP CLT
 
