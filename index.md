@@ -72,7 +72,7 @@ Coming Soon! Moving from Old OWASP Wiki.
     
     
 ### **2021**
-  - [2021 Kick Off Meeting (Security in a Post Covid World)](https://www.meetup.com/owaspCLT/events/274975479/) - 01/21/21
+  - [2021 Kick Off Meeting (Security in a Post Covid World)](https://www.meetup.com/owaspCLT/events/274975479/)
      - [Slides](assets/images/OWASPCLT_12121.pptx) (Auto Download)
      - [Video](https://youtu.be/p5s1AKOTDf4)
  
