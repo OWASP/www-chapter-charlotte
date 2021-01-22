@@ -66,14 +66,14 @@ Coming Soon! Moving from Old OWASP Wiki.
 
 ### **2020**
   - [2020 Kick Off Meeting (DA in Under 30 w/ Michael Kannan)](https://www.meetup.com/owaspCLT/events/268712712/)
-    - [Agenda](assets/images/DA-Under-30(agenda).pptx)
-    - [Slides](assets/images/DA-Under-30.pptx)
-    - [Video](https://www.youtube.com/watch?v=nptwNr2AXPg)
+    - [Agenda](assets/images/DA-Under-30(agenda).pptx) (Auto Download)
+    - [Slides](assets/images/DA-Under-30.pptx) (Auto Download)
+    - [Video](https://www.youtube.com/watch?v=nptwNr2AXPg) 
     
     
 ### **2021**
   - [2021 Kick Off Meeting (Security in a Post Covid World)](https://www.meetup.com/owaspCLT/events/274975479/) - 01/21/21
-     - [Slides](assets/images/OWASPCLT_12121.pptx)
+     - [Slides](assets/images/OWASPCLT_12121.pptx) (Auto Download)
      - [Video](https://youtu.be/p5s1AKOTDf4)
  
 ## Comms with OWASP CLT
