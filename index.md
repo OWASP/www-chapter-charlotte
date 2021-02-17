@@ -26,7 +26,7 @@ can have an accurate count for food.
 
 ## Upcoming Meetings
 
-  - [April 2021 Topic TBA!](https://www.meetup.com/owaspCLT/events/274988410/) - 04/21/21
+  - [How to Set up & Use C2 Empire and StarKiller](https://www.meetup.com/owaspCLT/events/274988410/) - 04/21/21
   - [July 2021 Topic TBA!](https://www.meetup.com/owaspCLT/events/274988434/) - 07/21/21
   - [October 2021 Topic TBA!](https://www.meetup.com/owaspCLT/events/274988455/) - 10/21/21
 
