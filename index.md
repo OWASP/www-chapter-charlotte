@@ -80,8 +80,7 @@ Coming Soon! Moving from Old OWASP Wiki.
 
   - All of our event notifications have been moved to our MeetUp page 
     [OWASPCLT](http://www.meetup.com/owaspCLT/). Please join if
-    interested as it will get updated more frequently then this wiki
-    page.
+    interested! 
   - We have a [OWASP Charlotte Twitter
     Account](http://twitter.com/OWASPCharlotte) where we'll be posting
     news about OWASP Charlotte. 
