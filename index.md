@@ -61,9 +61,6 @@ can have an accurate count for food.
   - [Bloodhound Red and Blue](https://www.meetup.com/owaspCLT/events/rwpfrpyxnbnb/)
   - [Building an AppSec Program with a Budget of $0: Beyond the OWASP Top 10](https://www.meetup.com/owaspCLT/events/rwpfrpyxpbsb/)
 
-### **2019**
-Coming Soon! Moving from Old OWASP Wiki.
-
 ### **2020**
   - [2020 Kick Off Meeting (DA in Under 30 w/ Michael Kannan)](https://www.meetup.com/owaspCLT/events/268712712/)
     - [Agenda](assets/images/DA-Under-30(agenda).pptx) (Auto Download)
