@@ -29,7 +29,7 @@ can have an accurate count for food.
 
 ## Upcoming Meetings
 
-  - [July 2021 Topic TBA!](https://www.meetup.com/owaspCLT/events/274988434/) - 07/21/21
+  - [A Talk about VOIP w/ Owen](https://www.meetup.com/owaspCLT/events/274988434/) - 07/21/21
   - [October 2021 Topic TBA!](https://www.meetup.com/owaspCLT/events/274988455/) - 10/21/21
 
 {% include chapter_events.html group=page.meetup-group %}
