@@ -84,5 +84,4 @@ can have an accurate count for food.
   
    - [Powerpoint Slide Deck Template](assets/images/OWASPCLT_Template.pptx)
 
-[Category:OWASP Chapter](Category:OWASP_Chapter "wikilink")
-[Category:North Carolina](Category:North_Carolina "wikilink")
+
