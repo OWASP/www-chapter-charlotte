@@ -65,6 +65,10 @@ can have an accurate count for food.
   - [How to Set up & Use C2 Empire and StarKiller](https://www.meetup.com/owaspCLT/events/274988410/)
      - [Slides](assets/images/OWASPCLT_Empire-42121.pptx) (Auto Download)
      - [Video](https://youtu.be/qtqb5hsc2Zw)
+
+  - [A Talk about VOIP w/ Owen](https://www.meetup.com/owaspCLT/events/274988434/) - 07/21/21
+     - [Slides](assets/images/#) (Auto Download)
+     - [Video](#)
  
 ## Comms with OWASP CLT
 
