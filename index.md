@@ -47,8 +47,10 @@ can have an accurate count for food.
 ## Member Spotlight.
 
   - Jasmine M. Jackson [Fluffy007](https://thefluffy007.com/)
+  - John Melton [John Melton](https://github.com/jtmelton)
   - Josh Jenkins: [Huggable Hacker](https://www.huggablehacker.com/)
-   - Little Felton: [Little Felton](https://www.littlefelton.com/)
+  - Little Felton: [Little Felton](https://www.littlefelton.com/)
+
 <!-- end list -->
 
 
