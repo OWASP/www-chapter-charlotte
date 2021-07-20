@@ -66,7 +66,7 @@ can have an accurate count for food.
      - [Slides](assets/images/OWASPCLT_Empire-42121.pptx) (Auto Download)
      - [Video](https://youtu.be/qtqb5hsc2Zw)
 
-  - [A Talk about VOIP w/ Owen](https://www.meetup.com/owaspCLT/events/274988434/) - 07/21/21
+  - [A Talk about VOIP w/ Owen](https://www.meetup.com/owaspCLT/events/274988434/)
      - [Slides](assets/images/#) (Auto Download)
      - [Video](#)
  
