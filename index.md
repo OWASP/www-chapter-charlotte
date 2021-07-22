@@ -36,11 +36,17 @@ can have an accurate count for food.
 
 ## Local News
 
-  - One of our projects,
-    [AppSensor](https://github.com/OWASP/www-project-appsensor)
+  - [AppSensor](https://github.com/OWASP/www-project-appsensor)
     headed by lead developer and local member [John Melton](https://github.com/jtmelton), was selected
     as a GSOC project. This is a very exciting new feature that will
     pave the way for a server/client model of AppSensor
+    
+    
+  - [SamuraiWTF](https://github.com/SamuraiWTF/samuraiwtf)
+    Co-headed by local member and developer  [Jason Gilliam](https://github.com/JGillam), SamuraiWTF is a framework designed for quickly configuring training
+    virtual machines with
+    tools and vulnerable application targets. This of this as a base box with a specialized package manager. For example, an instructor could use SamuraiWTF to
+    easily set up a classroom virtual machine image containing OWASP ZAP and OWASP Juice Shop, and then distribute it to each student.
 
 <!-- end list -->
 
