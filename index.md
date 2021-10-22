@@ -76,11 +76,11 @@ can have an accurate count for food.
      - [Video](https://youtu.be/qtqb5hsc2Zw)
 
   - [A Talk about VOIP w/ Owen](https://www.meetup.com/owaspCLT/events/274988434/)
-     - [Slides](assets/images/#) (Auto Download)
      - [Video](https://www.youtube.com/watch?v=Ja5NlFjeHWk)
    
   - [Security Observability 101: Thinking Inside the Box! with Jeff Williams](https://www.meetup.com/owaspCLT/events/274988455/)
-     - [Video](#)
+     - [Slides](assets/images/2021-10 OWASP Charlotte.pdf) (Auto Download)
+     - [Video](https://youtu.be/uae3-mUUPBE)
  
 ## Comms with OWASP CLT
 
