@@ -79,7 +79,7 @@ can have an accurate count for food.
      - [Video](https://www.youtube.com/watch?v=Ja5NlFjeHWk)
    
   - [Security Observability 101: Thinking Inside the Box! with Jeff Williams](https://www.meetup.com/owaspCLT/events/274988455/)
-     - [Slides](assets/images/2021-10 OWASP Charlotte.pdf) (Auto Download)
+      - [Slides](assets/images/2021-10-OWASP-Charlotte.pdf) (Auto Download)
      - [Video](https://youtu.be/uae3-mUUPBE)
  
 ## Comms with OWASP CLT
