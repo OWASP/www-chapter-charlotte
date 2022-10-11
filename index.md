@@ -61,22 +61,7 @@ can have an accurate count for food.
 
 ### **Pre-2021**
   - [Archive](archive.md)
-  
-### **2021**
-  - [2021 Kick Off Meeting (Security in a Post Covid World)](https://www.meetup.com/owaspCLT/events/274975479/)
-     - [Slides](assets/images/OWASPCLT_12121.pptx) (Auto Download)
-     - [Video](https://youtu.be/p5s1AKOTDf4)
 
-  - [How to Set up & Use C2 Empire and StarKiller](https://www.meetup.com/owaspCLT/events/274988410/)
-     - [Slides](assets/images/OWASPCLT_Empire-42121.pptx) (Auto Download)
-     - [Video](https://youtu.be/qtqb5hsc2Zw)
-
-  - [A Talk about VOIP w/ Owen](https://www.meetup.com/owaspCLT/events/274988434/)
-     - [Video](https://www.youtube.com/watch?v=Ja5NlFjeHWk)
-   
-  - [Security Observability 101: Thinking Inside the Box! with Jeff Williams](https://www.meetup.com/owaspCLT/events/274988455/)
-      - [Slides](assets/images/2021-10-OWASP-Charlotte.pdf)
-     - [Video](https://youtu.be/uae3-mUUPBE)
  
 ## Comms with OWASP CLT
 
