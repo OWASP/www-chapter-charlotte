@@ -1,4 +1,4 @@
 ### Leaders
 
-* [Josh Jenkins](mailto:josh.jenkins@owasp.org) 
-
+* [Josh](mailto:josh.jenkins@owasp.org) 
+* [Owen](mailto:owen.jh@owasp.org)
