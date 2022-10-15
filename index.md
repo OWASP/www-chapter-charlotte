@@ -52,7 +52,6 @@ can have an accurate count for food.
   - Jason Gilliam: [Jason Gilliam](https://github.com/JGillam)
   - John Melton [John Melton](https://github.com/jtmelton)
   - Josh Jenkins: [Huggable Hacker](https://www.huggablehacker.com/)
-  - Little Felton: [Little Felton](https://www.littlefelton.com/)
 
 <!-- end list -->
 
