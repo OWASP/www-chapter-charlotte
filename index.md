@@ -4,10 +4,7 @@ layout: col-sidebar
 title: OWASP Charlotte
 #tags: example-tag
 level: 0
-
-
 region: North America
-
 meetup-group: owaspCLT
 country: USA
 postal-code: 28202
