@@ -61,7 +61,7 @@ can have an accurate count for food.
 
 ### **2022**
   - [(On-line) Cherrybomb – API security tests in the CI pipeline (By OWASP MSP)](https://www.meetup.com/owaspclt/events/289047570/)
-     - [Video](#)
+     - [Video](https://www.youtube.com/watch?v=jBeK0Qw0h94)
  
 ## Comms with OWASP CLT
 
