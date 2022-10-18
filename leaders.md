@@ -1,4 +1,4 @@
 ### Leaders
 
-* [Josh](mailto:josh.jenkins@owasp.org) 
-* [Owen](https://twitter.com/linuxblog)
+* [Josh Jenkins](mailto:josh.jenkins@owasp.org) 
+* [Owen Henty](mailto:owen.jh@owasp.org)
