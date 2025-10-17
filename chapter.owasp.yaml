@@ -1,0 +1,25 @@
+leaders:
+  - name: Josh Jenkins
+    email: josh.jenkins@owasp.org
+    github: SOOS-JJennings
+  - name: Owen Henty
+    email: owen.jh@owasp.org
+location:
+  country: USA
+  country_code: US
+  region: North Carolina
+  city: Charlotte
+  postal_code: '28202'
+  latitude: 18.3414575
+  longitude: -64.9335173
+meetup_group: owaspCLT
+name: OWASP Charlotte
+repositories:
+  - name: www-chapter-charlotte
+    url: https://github.com/OWASP/www-chapter-charlotte
+    description: OWASP Foundation Web Repository
+tags:
+  - custom-tag-1
+  - custom-tag-2
+  - custom-tag-3
+website: https://owasp.org/www-chapter-charlotte
